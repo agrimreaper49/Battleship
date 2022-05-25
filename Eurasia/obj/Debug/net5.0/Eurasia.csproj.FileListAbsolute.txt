@@ -1,0 +1,14 @@
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\Eurasia.deps.json
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\Eurasia.dll
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\ref\Eurasia.dll
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\Eurasia.pdb
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Eurasia\bin\Debug\net5.0\Torpedo.pdb
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.csproj.AssemblyReference.cache
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.AssemblyInfoInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.AssemblyInfo.cs
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.csproj.CoreCompileInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.dll
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\ref\Eurasia.dll
+C:\Users\Agrim\source\repos\Battleship\Eurasia\obj\Debug\net5.0\Eurasia.pdb

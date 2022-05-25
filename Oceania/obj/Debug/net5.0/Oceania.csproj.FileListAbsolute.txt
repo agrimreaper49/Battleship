@@ -1,0 +1,16 @@
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Oceania.deps.json
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Oceania.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\ref\Oceania.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Oceania.pdb
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Eurasia.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Eurasia.pdb
+C:\Users\Agrim\source\repos\Battleship\Oceania\bin\Debug\net5.0\Torpedo.pdb
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.csproj.AssemblyReference.cache
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.AssemblyInfoInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.AssemblyInfo.cs
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.csproj.CoreCompileInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\ref\Oceania.dll
+C:\Users\Agrim\source\repos\Battleship\Oceania\obj\Debug\net5.0\Oceania.pdb

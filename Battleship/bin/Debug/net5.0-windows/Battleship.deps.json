@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Battleship/1.0.0": {
+        "dependencies": {
+          "Eurasia": "1.0.0",
+          "Oceania": "1.0.0",
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Battleship.dll": {}
+        }
+      },
+      "Eurasia/1.0.0": {
+        "dependencies": {
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Eurasia.dll": {}
+        }
+      },
+      "Oceania/1.0.0": {
+        "dependencies": {
+          "Eurasia": "1.0.0",
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Oceania.dll": {}
+        }
+      },
+      "Torpedo/1.0.0": {
+        "runtime": {
+          "Torpedo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battleship/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eurasia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oceania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Torpedo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

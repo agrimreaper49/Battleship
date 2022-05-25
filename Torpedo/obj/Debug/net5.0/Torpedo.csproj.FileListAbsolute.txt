@@ -1,0 +1,11 @@
+C:\Users\Agrim\source\repos\Battleship\Torpedo\bin\Debug\net5.0\Torpedo.deps.json
+C:\Users\Agrim\source\repos\Battleship\Torpedo\bin\Debug\net5.0\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Torpedo\bin\Debug\net5.0\ref\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Torpedo\bin\Debug\net5.0\Torpedo.pdb
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.AssemblyInfoInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.AssemblyInfo.cs
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.csproj.CoreCompileInputs.cache
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\ref\Torpedo.dll
+C:\Users\Agrim\source\repos\Battleship\Torpedo\obj\Debug\net5.0\Torpedo.pdb

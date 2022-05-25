@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Oceania/1.0.0": {
+        "dependencies": {
+          "Eurasia": "1.0.0",
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Oceania.dll": {}
+        }
+      },
+      "Eurasia/1.0.0": {
+        "dependencies": {
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Eurasia.dll": {}
+        }
+      },
+      "Torpedo/1.0.0": {
+        "runtime": {
+          "Torpedo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oceania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eurasia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Torpedo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

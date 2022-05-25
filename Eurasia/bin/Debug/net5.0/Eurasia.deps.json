@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eurasia/1.0.0": {
+        "dependencies": {
+          "Torpedo": "1.0.0"
+        },
+        "runtime": {
+          "Eurasia.dll": {}
+        }
+      },
+      "Torpedo/1.0.0": {
+        "runtime": {
+          "Torpedo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eurasia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Torpedo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
